@@ -189,7 +189,7 @@
   color: var(--color-text-grey);
   text-align: center;
 
-  font-size: var(--size-d);
+  font-size: var(--size-m);
 
   font-weight: var(--weight-text);
   line-height: 150%;
@@ -203,7 +203,7 @@
   align-items: center;
   border-radius: var(--border-radius-m);
   color: var(--color-white);
-  font-size: var(--size-d);
+  font-size: var(--size-m);
   font-weight: var(--weight-title);
   text-decoration: none;
   background: var(--color-background);
