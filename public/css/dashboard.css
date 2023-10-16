@@ -464,4 +464,10 @@ body {
       grid-template-rows: 1fr;
     }
   }
+
+  @media all and (width <= 700px) {
+    .analytic__block {
+      grid-template-columns: 1fr;
+    }
+  }
 }
